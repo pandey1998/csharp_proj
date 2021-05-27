@@ -12,6 +12,7 @@ namespace csharp_git
         {
             Console.WriteLine("hello");
             Console.WriteLine("akash");
+            Console.WriteLine("akash");
         }
     }
 }
