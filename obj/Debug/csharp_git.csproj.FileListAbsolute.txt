@@ -1,0 +1,7 @@
+D:\c#_git\csharp_git\bin\Debug\csharp_git.exe.config
+D:\c#_git\csharp_git\bin\Debug\csharp_git.exe
+D:\c#_git\csharp_git\bin\Debug\csharp_git.pdb
+D:\c#_git\csharp_git\obj\Debug\csharp_git.csprojAssemblyReference.cache
+D:\c#_git\csharp_git\obj\Debug\csharp_git.csproj.CoreCompileInputs.cache
+D:\c#_git\csharp_git\obj\Debug\csharp_git.exe
+D:\c#_git\csharp_git\obj\Debug\csharp_git.pdb
