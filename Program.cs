@@ -11,6 +11,7 @@ namespace csharp_git
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("akash");
         }
     }
 }
